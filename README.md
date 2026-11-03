@@ -41,7 +41,7 @@ This project analyzes employee attrition patterns to identify key factors associ
 - Evaluate compensation and employee satisfaction.
 
 ## Dashboard
-Tableau Public: [Insert your Tableau Public dashboard link]
+Tableau Public: [https://public.tableau.com/views/HRAttritionAnalytics_17937134084220/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Project Limitations
 The findings represent associations within the dataset and do not establish causation. The dataset does not provide direct financial information about employee turnover costs.
